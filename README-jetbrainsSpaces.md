@@ -1,8 +1,9 @@
 ## Pros
 - Free tier
-- Unlimited projectskp
+- Unlimited projects
 - Integration with GitHub
 - Can install OS packages
+- Supports warm-up scripts
 - Comes with a lot of popular programming languages pre-installed (https://www.gitpod.io/docs/languages-and-frameworks)
     - Python
     - golang
