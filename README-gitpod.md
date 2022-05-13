@@ -25,4 +25,3 @@
 ## Cons
 - Free tier limited to 50 hours 
 - Free tier limited to 4 parallel workspaces
-- 
